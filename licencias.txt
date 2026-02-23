@@ -1,0 +1,12 @@
+# =====================================================
+# LICENCIAS ACTIVAS - El Patrón v2.0
+# =====================================================
+# Formato: un ID por línea
+# Para BLOQUEAR a alguien: borra o comenta su línea con #
+# Para VER el ID de una PC: abre el bot sin licencia y
+# aparecerá el ID en el mensaje de error
+# =====================================================
+
+# Ejemplo (reemplaza con los IDs reales):
+# A1B2C3D4E5F6G7H8   <- tu amigo
+# 1A2B3C4D5E6F7G8H   <- tu propia PC (opcional)
